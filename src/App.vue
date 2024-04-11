@@ -6,7 +6,7 @@
       <input type="checkbox" name="priorizar" v-model="priorizar">
     </div>
     <div class="bloque2">
-      <button @click="agregar()" id="agregar">Agregar</button>
+      <button @click="agregar()" id="agregar">HOLA YULY</button>
       <button @click="ordenar()" id="ordenar">Ordenar</button>
     </div>
     <div class="bloque3">
