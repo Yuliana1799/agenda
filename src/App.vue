@@ -114,12 +114,12 @@ function ordenar() {
 }
 
 body {
-  background-color: rgb(204, 175, 175);
+  background-color: rgb(118, 211, 141);
 
 }
 
 .contenedor {
-  background-color: rgb(204, 175, 175);
+  background-color: rgb(192, 241, 177);
   height: 100vh;
   width: 100%;
   display: flex;
@@ -155,7 +155,7 @@ body {
   margin: 2px;
   width: 10%;
   border-radius: 6px;
-  background: linear-gradient(to right, #d1ebca, #b7f195, #44f744);
+  background-color: #086e80;
 }
 
 input[type="checkbox"] {
@@ -169,7 +169,7 @@ input[type="checkbox"] {
   margin: 2px;
   width: 10%;
   border-radius: 6px;
-  background: linear-gradient(to right, #ebcae4, #ee95f1, #f144f7);
+  background-color:#a9be2c;
 }
 
 table {
@@ -184,12 +184,15 @@ td {
   padding: 10px;
   text-align: left;
   border: 1px solid #ddd;
+  background-color: #cbe984;
+
   text-align: center;
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: #048604;
   font-size: 25px;
+  color: white;
 }
 
 .bloque3 {
@@ -235,10 +238,3 @@ button:hover {
 }
 
 </style>
-
-
-
-
-
-
-
